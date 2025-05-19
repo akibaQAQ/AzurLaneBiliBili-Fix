@@ -26,7 +26,7 @@ chmod +x apkeep
 # Download Azur Lane
 
 echo "Get Azur Lane apk"
-
+com.bilibili.AzurLane/smali_classes3/com/unity3d/player/UnityPlayerActivity.smali
     # eg: wget "your download link" -O "your packge name.apk" -q
     #if you want to patch .xapk, change the suffix here to wget "your download link" -O "your packge name.xapk" -q
 7z x com.bilibili.AzurLane.zip
